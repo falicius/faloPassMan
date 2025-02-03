@@ -72,7 +72,7 @@ public class faloPasswordMan extends JFrame {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                faloPasswordMan whole = new faloPasswordMan();
+                faloPasswordMan passwordMan = new faloPasswordMan();
             }
         });
     }
